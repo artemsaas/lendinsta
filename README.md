@@ -11,13 +11,13 @@
 
     window.onload = function () {
       const offers = [
-        "https://prev.affomelody.com/vJBfO5", // оффер 1
-        "https://mb9pmr0.meethotlove.com/lwyrlwm?s1=insta1", // оффер 2
-        "https://mb9pmr0.vipsthelovehaven.com/lw4h4aw?s1=insta2", // оффер 3
-        "https://grzvkg.trueamouronline.com/?utm_source=da57dc555e50572d&ban=inst&j1=1&s1=212364&s2=2122850"  // оффер 4
+        "https://grzvkg.amurllove.com/?utm_source=da57dc555e50572d&ban=inst&j1=1&s1=212364&s2=2166099", // оффер 1
+        "https://somana.top/click?o=2&a=6549&sub_id1=insta", // оффер 2
+        "https://tone.affomelody.com/aJ9mcJ", // оффер 3
+        ""  // оффер 4
       ];
 
-      const desktopRedirect = "https://www.instagram.com/men.click_here0?igsh=d2tleGZ1MzE1eGV4"; // для десктопа
+      const desktopRedirect = "https://t.me/+r3kPlvWsjdcxZWUy"; // для десктопа
 
       if (isMobile()) {
         // Всегда рандомный редирект с равным шансом (25%)
